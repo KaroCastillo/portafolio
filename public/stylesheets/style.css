@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+.btn-primary {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    height:30px;}
